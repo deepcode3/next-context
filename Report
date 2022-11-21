@@ -1,0 +1,3 @@
+style -tailwind and css
+-Context API is a state management tool bundled with the React.js library itself.
+-Third-party tools like Redux, MobX, etc. are best to handle states for bigger apps. But for middle-scale apps, it is best to use Context API. Because tools like Redux will take more setup time.
